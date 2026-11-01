@@ -1,0 +1,18 @@
+example,item,value
+CR4 in 2022,Breakfast cereal manufacturing,86.6
+CR4 in 2022,Cement manufacturing,51.7
+CR4 in 2022,Offices of physicians,6.195211278174642
+Cement 2017-2022,cr4_2017,40.1
+Cement 2017-2022,cr4_2022,51.7
+Cement 2017-2022,dlog_cr4,0.25408144720185993
+Cement 2017-2022,dlog_price,0.19119044501296617
+Cement 2017-2022,price_change_pct,21.069000000000003
+Pharmaceutical preparations 2012-2017 (NBER-CES),shipments_2012_musd,136453.0
+Pharmaceutical preparations 2012-2017 (NBER-CES),payroll_2012_musd,12516.5
+Pharmaceutical preparations 2012-2017 (NBER-CES),shipments_2017_musd,153923.1
+Pharmaceutical preparations 2012-2017 (NBER-CES),payroll_2017_musd,12209.8
+Pharmaceutical preparations 2012-2017 (NBER-CES),markup_2012,10.90184955858267
+Pharmaceutical preparations 2012-2017 (NBER-CES),markup_2017,12.60652099133483
+Pharmaceutical preparations 2012-2017 (NBER-CES),dlog_markup,0.14528175996115417
+Pharmaceutical preparations 2012-2017 (NBER-CES),dlog_price,0.30380146840804056
+Pharmaceutical preparations 2012-2017 (NBER-CES),dlog_cr4,0.16560555880202465

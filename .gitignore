@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local scratch and secrets
+*.key
+*_key*.txt
+.DS_Store
+
+# Large or unpacked downloads (the committed zips are the source of truth)
+data/raw/**/*.dat
+data/raw/**/*.tmp
